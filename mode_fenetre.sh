@@ -1,0 +1,1 @@
+lxterminal --command=./mini-shell
